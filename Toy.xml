@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<ToyRetail>
+  <Toy>
+      <ToyId>1</ToyId>
+      <ToyCategoryId> 7</ToyCategoryId>
+      <ToyName> Firecracker </ToyName>
+      <TotalCount> 25</TotalCount>
+      <ToyPrice>125.9 </ToyPrice>
+  </Toy>
+  
+    <Toy>
+      <ToyId>2</ToyId>
+      <ToyCategoryId>4 </ToyCategoryId>
+      <ToyName> Art doll</ToyName>
+      <TotalCount> 10</TotalCount>
+      <ToyPrice>170 </ToyPrice>
+  </Toy>
+  
+    <Toy>
+      <ToyId>3</ToyId>
+      <ToyCategoryId> 4</ToyCategoryId>
+      <ToyName>Parian doll </ToyName>
+      <TotalCount>12 </TotalCount>
+      <ToyPrice> 155.74</ToyPrice>
+  </Toy>
+  
+    <Toy>
+      <ToyId>4</ToyId>
+      <ToyCategoryId>1 </ToyCategoryId>
+      <ToyName> Little People</ToyName>
+      <TotalCount> 18</TotalCount>
+      <ToyPrice> 210.47</ToyPrice>
+  </Toy>
+  
+    <Toy>
+      <ToyId>5</ToyId>
+      <ToyCategoryId> 7</ToyCategoryId>
+      <ToyName>Toy piano </ToyName>
+      <TotalCount>30 </TotalCount>
+      <ToyPrice>220.33 </ToyPrice>
+  </Toy>
+  
+  
+    <Toy>
+      <ToyId>6</ToyId>
+      <ToyCategoryId> 2</ToyCategoryId>
+      <ToyName> Sock monkey</ToyName>
+      <TotalCount> 17</TotalCount>
+      <ToyPrice> 185.69</ToyPrice>
+  </Toy>
+  
+    <Toy>
+      <ToyId>7</ToyId>
+      <ToyCategoryId> 3</ToyCategoryId>
+      <ToyName>Power Wheels </ToyName>
+      <TotalCount> 22</TotalCount>
+      <ToyPrice>220.47 </ToyPrice>
+  </Toy>
+  
+    <Toy>
+      <ToyId>8</ToyId>
+      <ToyCategoryId> 5</ToyCategoryId>
+      <ToyName> Lego Mindstorms</ToyName>
+      <TotalCount> 25</TotalCount>
+      <ToyPrice> 185.69</ToyPrice>
+  </Toy>
+  
+</ToyRetail>

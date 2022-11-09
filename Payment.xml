@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<ToyRetail>
+  <Payment>
+      <PaymentId> 1</PaymentId>
+      <OrderId>2 </OrderId>
+      <TotalPayment>  350.63</TotalPayment>
+      <PaymentDate> 15-06-2022</PaymentDate>
+      <PaymentMethod>Card </PaymentMethod>
+  </Payment>
+  
+    <Payment>
+      <PaymentId> 2</PaymentId>
+      <OrderId> 3</OrderId>
+      <TotalPayment> 258.6 </TotalPayment>
+      <PaymentDate> 22-08-2022 </PaymentDate>
+      <PaymentMethod> Cash</PaymentMethod>
+  </Payment>
+  
+  
+    <Payment>
+      <PaymentId>3 </PaymentId>
+      <OrderId> 1</OrderId>
+      <TotalPayment>  247.01</TotalPayment>
+      <PaymentDate>  08-04-2022</PaymentDate>
+      <PaymentMethod>Cash </PaymentMethod>
+  </Payment>
+  
+  
+    <Payment>
+      <PaymentId> 4</PaymentId>
+      <OrderId> 5</OrderId>
+      <TotalPayment> 198.57 </TotalPayment>
+      <PaymentDate> 30-07-2022</PaymentDate>
+      <PaymentMethod> Card</PaymentMethod>
+  </Payment>
+  
+  
+    <Payment>
+      <PaymentId>5 </PaymentId>
+      <OrderId> 6</OrderId>
+      <TotalPayment> 190.47 </TotalPayment>
+      <PaymentDate> 15-02-2022</PaymentDate>
+      <PaymentMethod> Card</PaymentMethod>
+  </Payment>
+  
+  
+    <Payment>
+      <PaymentId> 6</PaymentId>
+      <OrderId>4 </OrderId>
+      <TotalPayment>188.52</TotalPayment>
+      <PaymentDate> 03-11-2022</PaymentDate>
+      <PaymentMethod> Card</PaymentMethod>
+  </Payment>
+  
+</ToyRetail>

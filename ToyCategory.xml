@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<ToyRetail>
+  <ToyCategory>
+      <ToyCategoryId>1</ToyCategoryId>
+      <CategoryName>Action figures</CategoryName>
+      <ForMaleKid>Yes</ForMaleKid>
+      <ForFemailKid>Yes</ForFemailKid>
+  </ToyCategory>
+  
+  <ToyCategory>
+      <ToyCategoryId>2</ToyCategoryId>
+      <CategoryName>Animals</CategoryName>
+      <ForMaleKid>Yes</ForMaleKid>
+      <ForFemailKid>Yes</ForFemailKid>
+  </ToyCategory>
+  
+  <ToyCategory>
+      <ToyCategoryId>3</ToyCategoryId>
+      <CategoryName>Cars and radio controlled</CategoryName>
+      <ForMaleKid>Yes</ForMaleKid>
+      <ForFemailKid>No</ForFemailKid>
+  </ToyCategory>
+
+	<ToyCategory>
+      <ToyCategoryId>4</ToyCategoryId>
+      <CategoryName>Dolls</CategoryName>
+      <ForMaleKid>No</ForMaleKid>
+      <ForFemailKid>Yes</ForFemailKid>
+  </ToyCategory>
+  
+  <ToyCategory>
+      <ToyCategoryId>5</ToyCategoryId>
+      <CategoryName>Educational toys</CategoryName>
+      <ForMaleKid>Yes</ForMaleKid>
+      <ForFemailKid>Yes</ForFemailKid>
+  </ToyCategory>
+  
+    <ToyCategory>
+      <ToyCategoryId>6</ToyCategoryId>
+      <CategoryName>Physical activity and dexterity</CategoryName>
+      <ForMaleKid>Yes</ForMaleKid>
+      <ForFemailKid>Yes</ForFemailKid>
+  </ToyCategory>
+  
+    <ToyCategory>
+      <ToyCategoryId>7</ToyCategoryId>
+      <CategoryName>Sound toys</CategoryName>
+      <ForMaleKid>Yes</ForMaleKid>
+      <ForFemailKid>Yes</ForFemailKid>
+  </ToyCategory>
+
+</ToyRetail>

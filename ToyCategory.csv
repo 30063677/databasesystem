@@ -1,0 +1,8 @@
+ToyCategoryId,CategoryName,ForMaleKid,ForFemailKid
+1,Action figures,Yes,Yes
+2,Animals,Yes,Yes
+3,Cars and radio controlled,Yes,No
+4,Dolls,No,Yes
+5,Educational toys,Yes,Yes
+6,Physical activity and dexterity,Yes,Yes
+7,Sound toys,Yes,Yes
